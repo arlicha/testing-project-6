@@ -1,0 +1,16 @@
+.ami {
+    border: 10px double green;
+    background-color: blue;
+    color: white;
+    padding: 2opx;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    width: 450px;
+    box-shadow: 10px 10px 10px rgb(78, 7, 100);
+}
+
+.ami img {
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+}
